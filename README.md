@@ -1,3 +1,4 @@
+<<<<<<< HEAD
  Thank u for reading the read me file
 * Akshaya
 * Deepika
@@ -17,3 +18,7 @@ The courses comprising the Data Science Specialization are:
 * Statistical Inference
 * Regression Models
 * R Programming-
+=======
+# Test-Repo
+First attempt at repo
+>>>>>>> 7d73ff9bed01346057407516db6e45195e541a20
